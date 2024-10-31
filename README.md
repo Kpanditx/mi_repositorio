@@ -1,1 +1,1 @@
-Esta es una nueva modificación en la rama "nueva_rama".
+Se resolvieron los conflictos.
